@@ -1,2 +1,5 @@
 persistence\test.class
+persistence\to\ruleTO.class
+persistence\dao\ruleDAO.class
 commons\JDBCConnectionManager.class
+services\servlet\prologServlet.class
